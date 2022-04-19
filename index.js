@@ -1,0 +1,1 @@
+document.body.innerHTML = "<div>Hello piska blat</div>";    
